@@ -62,7 +62,7 @@ CIS 8693: Data Analytics, AI, for Digital Innovation
 
 Graduate team analytics project.
 
-Project Report and Analysis
+## Project Report and Analysis
 
 My full project analysis is available in the docs folder.
 
