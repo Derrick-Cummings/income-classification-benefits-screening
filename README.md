@@ -16,13 +16,13 @@ I was responsible for the Random Forest analysis.
 
 My Jupyter notebook documents my work, including:
 
-Additional data cleaning and preprocessing
+-Additional data cleaning and preprocessing
 
-Data exploration and visualizations
+-Data exploration and visualizations
 
-Random Forest model development
+-Random Forest model development
 
-Random Forest model evaluation using a confusion matrix
+-Random Forest model evaluation using a confusion matrix
 
 The notebook provides the code and outputs associated with my individual technical contribution.
 
