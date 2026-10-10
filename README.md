@@ -10,16 +10,21 @@ The predictions are intended to support screening outreach, **not determine actu
 
 ## My Contribution: Random Forest Modeling
 
-As part of a team project, I was responsible for the **Random Forest analysis**.
+As part of a team project, I developed the business problem and established the shared baseline requirements used by the team.
+
+I was responsible for the Random Forest analysis.
 
 My Jupyter notebook documents my work, including:
 
-- Additional data cleaning and preprocessing
-- Data exploration and visualizations
-- Random Forest model development
-- Random Forest model evaluation using a confusion matrix
-  
-The notebook provides the code and outputs associated with my individual contribution.
+Additional data cleaning and preprocessing
+
+Data exploration and visualizations
+
+Random Forest model development
+
+Random Forest model evaluation using a confusion matrix
+
+The notebook provides the code and outputs associated with my individual technical contribution.
 
 ## Dataset
 
@@ -64,12 +69,6 @@ Graduate team analytics project.
 
 ## Project Report and Analysis
 
-My individual project report is available in the docs folder.
+My individual project report documents my analysis and findings.
 
-For the team project, I developed the business problem and established the shared baseline requirements used across the team's analyses.
-
-My individual technical work focused on Random Forest classification, including additional data preprocessing, exploratory visualizations, model development, and evaluation using a confusion matrix.
-
-I independently authored my project report, incorporating confusion matrix results from other team members' models to support a comparative analysis.
-
-The accompanying Jupyter notebook contains the executable code for my Random Forest analysis
+The report also incorporates confusion matrix results from other team members' models for comparison.
