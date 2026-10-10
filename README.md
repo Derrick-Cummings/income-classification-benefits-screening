@@ -64,10 +64,12 @@ Graduate team analytics project.
 
 ## Project Report and Analysis
 
-My full project analysis is available in the docs folder.
+My individual project report is available in the docs folder.
 
-I authored the analysis, including the business problem, methodology, findings, and recommendations. My individual technical contribution focused on Random Forest modeling, including data preprocessing, visualization, and confusion matrix evaluation.
+For the team project, I developed the business problem and established the shared baseline requirements used across the team's analyses.
 
-The report also incorporates confusion matrix results from models developed by other team members to support the overall model comparison.
+My individual technical work focused on Random Forest classification, including additional data preprocessing, exploratory visualizations, model development, and evaluation using a confusion matrix.
 
-The accompanying Jupyter notebook contains the executable code for my Random Forest analysis.
+I independently authored my project report, incorporating confusion matrix results from other team members' models to support a comparative analysis.
+
+The accompanying Jupyter notebook contains the executable code for my Random Forest analysis
