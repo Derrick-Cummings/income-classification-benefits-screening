@@ -62,10 +62,12 @@ CIS 8693: Data Analytics, AI, for Digital Innovation
 
 Graduate team analytics project.
 
-## Project Report
+Project Report and Analysis
 
-The final team project report is available in the [docs folder](docs/).
+My full project analysis is available in the docs folder.
 
-The report explains the overall business problem, methodology, and findings.
+I authored the analysis, including the business problem, methodology, findings, and recommendations. My individual technical contribution focused on Random Forest modeling, including data preprocessing, visualization, and confusion matrix evaluation.
 
-**My individual contribution was the Random Forest analysis**, including data preprocessing, visualization, model development, and confusion matrix evaluation.
+The report also incorporates confusion matrix results from models developed by other team members to support the overall model comparison.
+
+The accompanying Jupyter notebook contains the executable code for my Random Forest analysis.
