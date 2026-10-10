@@ -61,3 +61,11 @@ Model predictions should not be treated as verified income information or as dec
 CIS 8693: Data Analytics, AI, for Digital Innovation
 
 Graduate team analytics project.
+
+## Project Report
+
+The final team project report is available in the [docs folder](docs/).
+
+The report explains the overall business problem, methodology, and findings.
+
+**My individual contribution was the Random Forest analysis**, including data preprocessing, visualization, model development, and confusion matrix evaluation.
